@@ -761,17 +761,4 @@ The journey ahead:
 
 ---
 
-## 📝 Changelog
-
-**v1.0 (Dec 2025):** Initial streamlined curriculum release
-- 50% reduction from comprehensive version (114 weeks → 57 weeks)
-- 56% reduction in total hours (1,156-1,476 hours → 508-630 hours)
-- **Added:** Stochastic Processes (4 weeks) - essential for finance, risk analysis, and operations research
-- **Removed:** Complex Analysis, standalone mathematical modeling course, extensive specialization tracks
-- **Kept:** All essential applied math topics - calculus, linear algebra, probability, optimization, differential equations (8 weeks), numerical methods, computation
-- **Focus:** Broadly applicable to all quantitative careers (finance, ML, operations research, computational economics)
-- **Philosophy:** Essentials-only, career-focused, prepares for multiple paths equally
-
----
-
 **Ready to start? Download this curriculum, set up your environment, and begin MIT 18.02SC next Monday! 🚀**
